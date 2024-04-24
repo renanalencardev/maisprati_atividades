@@ -5,11 +5,12 @@
 2 x N = 2N
 3 x N = 3N
 * */
-
+console.log("-------- TABUADA --------");
+console.log();
 const entrada = require('prompt-sync')();
 let cont = 1;
 while (cont <= 5) {
-    let tabuada = parseInt(entrada("Digite o primeiro número: "));
+    let tabuada = parseInt(entrada("Digite o número: "));
     let multiplicador = 1;
     while (multiplicador <= tabuada){
         console.log(multiplicador, " x ", tabuada, " = ", multiplicador * tabuada);
