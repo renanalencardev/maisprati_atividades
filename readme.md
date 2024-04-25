@@ -11,19 +11,22 @@ Este repositório contém 16 exercícios em JavaScript, que foram passados pelo 
 
 1. Clone este repositório para sua máquina local:
 
-
-    git clone git@github.com:renanalencardev/maisprati_atividades.git
+```bash
+  git clone git@github.com:renanalencardev/maisprati_atividades.git
+```
 
 
 2. Navegue até o diretório do projeto:
 
-
-    cd seu-repositorio
+```bash
+  cd seu-repositorio
+```
 
 3. Instale as dependências do projeto:
 
-
-    npm install
+```bash
+  npm install
+```
 
 Isso instalará a biblioteca `prompt-sync` e quaisquer outras dependências necessárias.
 
@@ -31,7 +34,8 @@ Isso instalará a biblioteca `prompt-sync` e quaisquer outras dependências nece
 
 1. Execute um dos arquivos `.js` dos exercícios diretamente com o Node.js. Por exemplo, para executar o exercício 1:
 
-
-    node exercicio01.js
+```bash
+  node exercicio01.js
+```
 
 2. Siga as instruções na tela para interagir com o exercício.
